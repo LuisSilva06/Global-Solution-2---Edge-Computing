@@ -1,5 +1,6 @@
 📘 Sistema de Monitoramento de Postura e Produtividade
 ESP32 + MPU6050 + MQTT
+
 🧩 Descrição do Problema
 
 Profissionais que trabalham em home office frequentemente passam longos períodos sentados, muitas vezes mantendo posturas inadequadas, como inclinação excessiva da coluna ou cabeça projetada para frente.
