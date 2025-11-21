@@ -120,5 +120,5 @@ Este projeto demonstra um sistema IoT completo que:
 Ele fornece uma solução de baixo custo, expansível e prática para melhorar hábitos ergonômicos no trabalho remoto.
 
 Luis Gustavo RM:561672
-Kauan Benites RM:562115
+
 Mateus Nunes RM:562008
