@@ -40,6 +40,8 @@ O sistema é capaz de:
 
 Abra o projeto no Wokwi.
 
+https://wokwi.com/projects/448257548864290817
+
 Pressione ▶️ Play.
 
 Clique no MPU6050 e arraste para simular inclinação.
@@ -115,3 +117,7 @@ Este projeto demonstra um sistema IoT completo que:
 ✔ Integra-se ao tema “Postura e Produtividade para Escritório Remoto”
 
 Ele fornece uma solução de baixo custo, expansível e prática para melhorar hábitos ergonômicos no trabalho remoto.
+
+Luis Gustavo RM:561672
+Kauan Benites RM:562115
+Mateus Nunes RM:562008
